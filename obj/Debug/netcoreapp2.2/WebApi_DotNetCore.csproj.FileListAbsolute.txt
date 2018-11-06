@@ -1,0 +1,14 @@
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\bin\Debug\netcoreapp2.2\WebApi_DotNetCore.deps.json
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\bin\Debug\netcoreapp2.2\WebApi_DotNetCore.runtimeconfig.json
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\bin\Debug\netcoreapp2.2\WebApi_DotNetCore.runtimeconfig.dev.json
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\bin\Debug\netcoreapp2.2\WebApi_DotNetCore.dll
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\bin\Debug\netcoreapp2.2\WebApi_DotNetCore.pdb
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.csprojAssemblyReference.cache
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.RazorAssemblyInfo.cache
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.RazorAssemblyInfo.cs
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.AssemblyInfoInputs.cache
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.AssemblyInfo.cs
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.dll
+C:\Users\jaribeiro\Documents\GitHub\WebApi_DotNetCore\obj\Debug\netcoreapp2.2\WebApi_DotNetCore.pdb
